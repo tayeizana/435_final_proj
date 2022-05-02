@@ -1,8 +1,0 @@
-Markov Chain Model of Epidemic Spreading through Public Transit.
-
-City of choice: Yonkers, New York(purely because the name's funny.)
-
-Population: 211,569
-
-PT ridership: 26.4%
-	This percentage is gathered though survey, and only considers the # of people that take PT to work.
